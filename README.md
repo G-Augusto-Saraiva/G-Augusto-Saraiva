@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo  Front-end
 
 - <main>
-  <img align="right" alt="Saraiva-desenho" height="100" width="75" src="https://github.com/G-Augusto-Saraiva/github-readme-stats/blob/master/download20230903124248.png">
+  <img align="right" alt="Saraiva-desenho" height="150" width="125" src="https://github.com/G-Augusto-Saraiva/github-readme-stats/blob/master/download20230903124248.png">
 </main>
 
   <div style="display: inline_block"><br>
