@@ -1,6 +1,6 @@
 - 👋 Oi sou G Augusto Saraiva, cêis tão bão????
-- 👀 I’m interested in aprender e codar
-- 🌱 I’m currently learning Front end
+- 👀 Estou interessado em aprender e codar
+- 🌱 Atualmente estou aprendendo  Front-end
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
