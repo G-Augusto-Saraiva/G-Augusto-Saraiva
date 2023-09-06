@@ -1,5 +1,5 @@
-- 👋 Oi sou G Augusto Saraiva, cêis tão bão????
-- 👀 Estou interessado em aprender e codar
+- 👋 Oi, sou G.Augusto Saraiva, cêis tão bão????
+- 👀 Estou interessado em aprender a codar
 - 🌱 Atualmente estou aprendendo  Front-end
 
   <div style="display: inline_block"><br>
