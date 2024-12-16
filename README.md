@@ -1,4 +1,4 @@
-- 👋 Oi, sou G.Augusto Saraiva, cêis tão bão????
+- 👋 Oi, sou Augusto Saraiva, cêis tão bão????
 - 👀 Estou interessado em aprender a codar
 - 🌱 Atualmente estou aprendendo  Front-end
 
